@@ -21,7 +21,7 @@ import json
 import random
 
 
-# https://github.com/Aqua-Dream/Tieba_Spider/blob/master/config.py
+
 
 
 class TbSpider(CrawlSpider):
